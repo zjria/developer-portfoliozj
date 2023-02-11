@@ -242,6 +242,65 @@ main {
     line-height: 28px;
     color: #757575;
 }
+
 .education-experience-info hr {
     margin: 30px 0px;
+}
+
+.cv-download-section {
+    margin: 100px 0px;
+}
+
+
+/* Footer Section Style */
+footer {
+    background: #FFF8F3;
+}
+
+.footer-section {
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.footer-section .message-me,
+.Lets-Connect {
+    padding: 130px 0px;
+}
+
+.footer-section h1 {
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 48px;
+    color: #181818;
+    margin-bottom: 20px;
+}
+
+.footer-section p {
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #474747;
+}
+
+.footer-section ul {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
+
+.message-me input {
+    padding: 15px 3px;
+    width: 100%;
+    margin: 10px 0;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+.message-me textarea {
+    padding: 15px 3px;
+    width: 100%;
+    margin: 10px 0;
+    background: #FFFFFF;
+    border-radius: 5px;
 }
